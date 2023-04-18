@@ -1,0 +1,45 @@
+.parent{
+    height: 100vh;
+    width: 100vw;
+}
+
+.SAR-1{
+    text-align: center;
+    width: 100vw;
+    height: 50vh;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://gumlet.assettype.com/knocksense/2023-02/d0fe5f86-2bd3-4647-8204-7ca977dbf409/61ADADDD_11FD_4295_A41E_FA63A271BB2B.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true");
+}
+.SAR-2{
+    width: 100vw;
+    min-height: 50vh;
+    background-color: white;
+    display: flex;
+    display: flex;
+    flex-wrap: wrap;
+}
+.Raju-1{
+    background-color: none;
+    height: 200px;
+    width: 270px;
+    margin-left: 40px;
+}
+img{
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 20%;
+    display: flexbox;
+    position: relative;
+}
+.ticket{
+    display: flex;
+    justify-content: space-around;
+}
+/* .image-parent div{
+    display: inline-block;
+    width: 50%;
+} */
